@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://pxcode.io">pxCode</a> 10x Faster!
+          Welcome to <a href="https://pxcode.io">pxCode</a> 10x Faster in a elegant way !!!
         </h1>
 
         <p className={styles.description}>
